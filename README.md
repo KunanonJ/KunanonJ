@@ -24,23 +24,29 @@ I am a product-minded engineer dedicated to building **AI-Native Systems**, **Sa
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 claude-skills-hub</h3>
+      <h3><a href="https://github.com/KunanonJ/claude-skills-hub">🤖 claude-skills-hub</a></h3>
       <p>A premier open-source repository of <b>4,360+ portable skills</b> for AI coding agents (Claude Code, ChatGPT, Cursor, Windsurf) to automate complex engineering operations.</p>
+      <p>
+        <a href="https://github.com/KunanonJ/claude-skills-hub"><b>GitHub 🐙</b></a>
+      </p>
       <p>
         <img src="https://img.shields.io/github/stars/KunanonJ/claude-skills-hub?style=flat-square&logo=github" alt="Stars" />
         <img src="https://img.shields.io/github/forks/KunanonJ/claude-skills-hub?style=flat-square&logo=github" alt="Forks" />
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>💳 GoGoCash</h3>
+      <h3><a href="https://github.com/mygogocash">💳 GoGoCash</a></h3>
       <p>Shopping-to-earn platform, offering cashback with leading e-commerce partners. We deliver personalized quests, seasonal rewards, and cashback.</p>
       <p>
         <a href="https://gogocash.co"><b>gogocash.co 🌐</b></a> &nbsp;•&nbsp; <a href="https://github.com/mygogocash"><b>GitHub 🐙</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🦎 chameleon-finance</h3>
+      <h3><a href="https://github.com/KunanonJ/chameleon-finance">🦎 chameleon-finance</a></h3>
       <p>Interactive personal finance tracking dashboard with deep D3.js data visualizations (treemaps, sankey, beeswarm) and automated Google Sheets integration.</p>
+      <p>
+        <a href="https://github.com/KunanonJ/chameleon-finance"><b>GitHub 🐙</b></a>
+      </p>
       <p>
         <img src="https://img.shields.io/github/stars/KunanonJ/chameleon-finance?style=flat-square&logo=github" alt="Stars" />
         <img src="https://img.shields.io/github/forks/KunanonJ/chameleon-finance?style=flat-square&logo=github" alt="Forks" />
