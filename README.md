@@ -35,7 +35,7 @@ I am a product-minded engineer dedicated to building **AI-Native Systems**, **Sa
       <h3>💳 GoGoCash</h3>
       <p>Shopping-to-earn platform, offering cashback with leading e-commerce partners. We deliver personalized quests, seasonal rewards, and cashback.</p>
       <p>
-        <a href="https://gogocash.co"><b>gogocash.co 🌐</b></a>
+        <a href="https://gogocash.co"><b>gogocash.co 🌐</b></a> &nbsp;•&nbsp; <a href="https://github.com/mygogocash"><b>GitHub 🐙</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
