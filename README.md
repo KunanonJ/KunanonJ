@@ -1,5 +1,5 @@
 # Hi, I'm Kunanon Jarat (Fronk) 👋
-### Blockchain Security Engineer · AI Agentic Architect · Product Builder
+### AI Systems Engineer · Digital Product Builder · Blockchain Architect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kunanonj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,82 +11,84 @@
 ---
 
 ### 🔭 About Me
-I am a multi-disciplinary software engineer specializing in **Blockchain Security**, **EVM Internals**, and **AI Coding Agents**. I build open-source tools that empower developers, secure smart contracts, and streamline financial operations.
+I am a product-minded engineer dedicated to building **AI-Native Systems**, **SaaS Digital Products**, and **Secure Decentralized Infrastructure**. I bridge the gap between complex engineering architectures and beautiful, user-centric interfaces.
 
-* 🛡️ **Smart Contract Auditing & CTFs:** Deep-diving into EVM security, writing complex invariant tests, and solving top-tier security challenges (Ethernaut, Damn Vulnerable DeFi).
-* 🤖 **AI Tooling & Agentic Workflows:** Architect of [claude-skills-hub](https://github.com/KunanonJ/claude-skills-hub), containing **4,360+ portable agentic skills** designed to elevate developer capabilities in Claude Code, Codex, and Cursor.
-* 💳 **Product Engineering:** Co-creator of **[@mygogocash](https://github.com/mygogocash)** ([gogocash.co](https://gogocash.co)), building lightweight, seamless personal finance software.
-
----
-
-### 🛠️ Tech Stack & Specialized Toolkit
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🧱 Smart Contract & EVM Core</h4>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
-      <img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white" alt="Foundry" />
-      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" />
-      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🛡️ Auditing & Security Testing</h4>
-      <img src="https://img.shields.io/badge/Slither-1B1B1B?style=flat-square" alt="Slither" />
-      <img src="https://img.shields.io/badge/Mythril-FF6B6B?style=flat-square" alt="Mythril" />
-      <img src="https://img.shields.io/badge/Echidna-2E8B57?style=flat-square" alt="Echidna" />
-      <img src="https://img.shields.io/badge/Ethernaut-CTF-blueviolet?style=flat-square" alt="Ethernaut" />
-      <img src="https://img.shields.io/badge/DVD-CTF-red?style=flat-square" alt="Damn Vulnerable DeFi" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Software & System Engineering</h4>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🤖 Generative AI & Developer Tooling</h4>
-      <img src="https://img.shields.io/badge/LLM_Agents-8A2BE2?style=flat-square" alt="LLM Agents" />
-      <img src="https://img.shields.io/badge/Claude_Code-D14836?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
+* 🤖 **AI & Agentic Engineering:** Creator of [claude-skills-hub](https://github.com/KunanonJ/claude-skills-hub) — a library of **4,360+ modular AI Agent skills** used globally to automate software engineering workflows inside Claude Code, Codex, and Cursor.
+* 💳 **Digital Products & SaaS:** Co-creator of **[@mygogocash](https://github.com/mygogocash)** ([gogocash.co](https://gogocash.co)), building lightweight, privacy-first personal finance software designed for modern users.
+* 🛡️ **Blockchain Infrastructure & Security:** Specialized in EVM internals, smart contract architecture (Solidity/Foundry), and rigorous security auditing CTFs (Ethernaut, Damn Vulnerable DeFi).
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Flagships
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3>🤖 claude-skills-hub</h3>
-      <p>A centralized library of <b>4,360+ portable AI skills</b> designed for Claude Code, Cursor, Codex, ChatGPT, and Windsurf.</p>
+      <p>A premier open-source repository of <b>4,360+ portable skills</b> for AI coding agents (Claude Code, ChatGPT, Cursor, Windsurf) to automate complex engineering operations.</p>
       <p>
         <img src="https://img.shields.io/github/stars/KunanonJ/claude-skills-hub?style=flat-square&logo=github" alt="Stars" />
         <img src="https://img.shields.io/github/forks/KunanonJ/claude-skills-hub?style=flat-square&logo=github" alt="Forks" />
       </p>
     </td>
     <td width="33%" valign="top">
+      <h3>💳 Gogocash</h3>
+      <p>Flagship personal finance software designed to put users back in control of their financial data with elegant UX, quick logging, and privacy-first synchronization.</p>
+      <p>
+        <a href="https://gogocash.co"><b>gogocash.co 🌐</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3>🦎 chameleon-finance</h3>
-      <p>Personal finance tracking dashboard with interactive visualizations (treemaps, sankey, beeswarm) and automatic Google Sheets sync.</p>
+      <p>Interactive personal finance tracking dashboard with deep D3.js data visualizations (treemaps, sankey, beeswarm) and automated Google Sheets integration.</p>
       <p>
         <img src="https://img.shields.io/github/stars/KunanonJ/chameleon-finance?style=flat-square&logo=github" alt="Stars" />
         <img src="https://img.shields.io/github/forks/KunanonJ/chameleon-finance?style=flat-square&logo=github" alt="Forks" />
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3>💳 Gogocash</h3>
-      <p>Seamless, lightweight, and modern personal finance software designed to put users back in control of their financial data.</p>
-      <p>
-        <a href="https://gogocash.co"><b>gogocash.co 🌐</b></a>
-      </p>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Specialized Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🤖 AI & Intelligent Systems</h4>
+      <img src="https://img.shields.io/badge/LLM_Agents-8A2BE2?style=flat-square" alt="LLM Agents" />
+      <img src="https://img.shields.io/badge/Claude_Code-D14836?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+      <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square" alt="Cursor AI" />
+      <img src="https://img.shields.io/badge/Model_Context_Protocol-3178C6?style=flat-square" alt="MCP" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-4B0082?style=flat-square" alt="Prompt Engineering" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>💳 Digital Products & Frontend</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/D3.js-F9A03F?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
+      <img src="https://img.shields.io/badge/SaaS_Architecture-FF8C00?style=flat-square" alt="SaaS" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🛡️ Blockchain Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+      <img src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white" alt="Foundry" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>⚙️ Security Auditing & CTFs</h4>
+      <img src="https://img.shields.io/badge/Slither-1B1B1B?style=flat-square" alt="Slither" />
+      <img src="https://img.shields.io/badge/Mythril-FF6B6B?style=flat-square" alt="Mythril" />
+      <img src="https://img.shields.io/badge/Echidna-2E8B57?style=flat-square" alt="Echidna" />
+      <img src="https://img.shields.io/badge/Ethernaut-CTF-blueviolet?style=flat-square" alt="Ethernaut" />
+      <img src="https://img.shields.io/badge/DVD-CTF-red?style=flat-square" alt="Damn Vulnerable DeFi" />
     </td>
   </tr>
 </table>
@@ -106,5 +108,5 @@ I am a multi-disciplinary software engineer specializing in **Blockchain Securit
 ---
 
 <p align="center">
-  <sub>Let's connect! Shoot me an email at <b><a href="mailto:fronk.kunanon@gmail.com">fronk.kunanon@gmail.com</a></b> or find me on <b><a href="https://www.linkedin.com/in/kunanonj/">LinkedIn</a></b>.</sub>
+  <sub>Let's build together! Reach out at <b><a href="mailto:fronk.kunanon@gmail.com">fronk.kunanon@gmail.com</a></b> or find me on <b><a href="https://www.linkedin.com/in/kunanonj/">LinkedIn</a></b>.</sub>
 </p>
