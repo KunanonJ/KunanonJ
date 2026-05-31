@@ -14,7 +14,7 @@
 I am a product-minded engineer dedicated to building **AI-Native Systems**, **SaaS Digital Products**, and **Secure Decentralized Infrastructure**. I bridge the gap between complex engineering architectures and beautiful, user-centric interfaces.
 
 * 🤖 **AI & Agentic Engineering:** Creator of [claude-skills-hub](https://github.com/KunanonJ/claude-skills-hub) — a library of **4,360+ modular AI Agent skills** used globally to automate software engineering workflows inside Claude Code, Codex, and Cursor.
-* 💳 **Digital Products & SaaS:** Co-creator of **[@mygogocash](https://github.com/mygogocash)** ([gogocash.co](https://gogocash.co)), building lightweight, privacy-first personal finance software designed for modern users.
+* 💳 **Digital Products & SaaS:** Co-creator of **[@mygogocash](https://github.com/mygogocash)** ([gogocash.co](https://gogocash.co)) — a shopping-to-earn platform offering cashback with leading e-commerce partners. We deliver personalized quests, seasonal rewards, and cashback.
 * 🛡️ **Blockchain Infrastructure & Security:** Specialized in EVM internals, smart contract architecture (Solidity/Foundry), and rigorous security auditing CTFs (Ethernaut, Damn Vulnerable DeFi).
 
 ---
@@ -32,8 +32,8 @@ I am a product-minded engineer dedicated to building **AI-Native Systems**, **Sa
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>💳 Gogocash</h3>
-      <p>Flagship personal finance software designed to put users back in control of their financial data with elegant UX, quick logging, and privacy-first synchronization.</p>
+      <h3>💳 GoGoCash</h3>
+      <p>Shopping-to-earn platform, offering cashback with leading e-commerce partners. We deliver personalized quests, seasonal rewards, and cashback.</p>
       <p>
         <a href="https://gogocash.co"><b>gogocash.co 🌐</b></a>
       </p>
