@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fronk&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Blockchain%20Architect&descAlignY=62&descSize=18" />
 
@@ -84,4 +84,3 @@ Infra        │  SaaS Architecture  ·  Firebase  ·  MongoDB  ·  NestJS
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
-]]>
