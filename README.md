@@ -67,12 +67,21 @@ Infra        │  SaaS Architecture  ·  Firebase  ·  MongoDB  ·  NestJS
 
 ## 📊 github wrapped
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=KunanonJ&show_icons=true&hide_border=true&rank_icon=github&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" alt="Kunanon's GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com?user=KunanonJ&hide_border=true&background=0D1117&border=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakNum=C9D1D9&currStreakLabel=A855F7&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KunanonJ&bg_color=0D1117&color=A855F7&line=EC4899&point=22D3EE&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunanonJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunanonJ&theme=tokyonight&hide_border=true" height="165" alt="streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunanonJ&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+  <img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunanonJ&layout=compact&hide_border=true&langs_count=8&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />
 </div>
 
 ---
