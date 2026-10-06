@@ -4,7 +4,7 @@ AI engineer and product builder in Bangkok. I work on shopping-to-earn cashback 
 
 ## About
 
-I build consumer SaaS, LLM agent tooling, and EVM security work with [@mygogocash](https://github.com/mygogocash). More of the public work is in pinned repositories.
+I build consumer SaaS, LLM agent tooling, and EVM-focused security work, currently with [@mygogocash](https://github.com/mygogocash).
 
 ## Projects
 
